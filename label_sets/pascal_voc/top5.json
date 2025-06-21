@@ -1,0 +1,150 @@
+{
+  "background": [
+    "Natural background ",
+    "Cityscape background ",
+    "Skyline background ",
+    "Vintage background ",
+    "Digital background "
+  ],
+  "aeroplane": [
+    "Ultralight aircraft",
+    "Propeller-driven aeroplane",
+    "Fighter Jet Airplane",
+    "Commercial_Jetliner",
+    "Business jet"
+  ],
+  "bicycle": [
+    "Electric Bike (E-bike)",
+    "vintage bicycle",
+    "Hybrid Bike",
+    "Touring Bike",
+    "Single Speed Bike"
+  ],
+  "bird": [
+    "Eagle",
+    "Penguin",
+    "Pelican",
+    "Pigeon",
+    "Finch"
+  ],
+  "boat": [
+    "Sailboat",
+    "Yacht",
+    "canoe",
+    "Inflatable boat",
+    "Ship"
+  ],
+  "bottle": [
+    "Sports Drink bottle",
+    "Medicine bottle",
+    "Squeeze bottle",
+    "Condiment bottle",
+    "Juice bottle"
+  ],
+  "bus": [
+    "Coach bus",
+    "Articulated bus",
+    "Electric bus",
+    "Express bus",
+    "Intercity bus"
+  ],
+  "car": [
+    "Sedan car",
+    "SUV (Sport Utility Vehicle)",
+    "Hatchback car",
+    "Convertible car",
+    "Coupe car"
+  ],
+  "cat": [
+    "Persian cat",
+    "Maine Coon cat",
+    "Ragdoll cat",
+    "Scottish Fold cat",
+    "Siamese cat"
+  ],
+  "chair": [
+    "Recliner chair",
+    "Lounge chair",
+    "wingback chair",
+    "club chair",
+    "glider chair"
+  ],
+  "cow": [
+    "Holstein cow",
+    "Charolais cow",
+    "Limousin cow",
+    "Gelbvieh cow",
+    "Brahman cow"
+  ],
+  "table": [
+    "Study table",
+    "picnic table",
+    "Drafting table",
+    "Reception table",
+    "work table"
+  ],
+  "dog": [
+    "Labrador Retriever",
+    "German Shepherd",
+    "large dog",
+    "small dog",
+    "Shetland Sheepdog"
+  ],
+  "horse": [
+    "Thoroughbred horse",
+    "Quarter horse",
+    "Paint horse",
+    "Palomino horse",
+    "Shetland Pony"
+  ],
+  "motorbike": [
+    "Cruiser motorbike",
+    "Sport Bike motorbike",
+    "Bobber motorbike",
+    "Cafe Racer motorbike",
+    "Trike motorbike"
+  ],
+  "person": [
+    "female person",
+    "male person",
+    "child",
+    "young adults",
+    "adults"
+  ],
+
+  "plant": [
+    "Rose plant",
+    "Sunflower plant",
+    "Tulip plant",
+    "Cactus plant",
+    "Flowering plants"
+  ],
+  "sheep": [
+    "Merino sheep",
+    "Dorset sheep",
+    "Suffolk sheep",
+    "Jacob sheep",
+    "Border Leicester sheep"
+  ],
+  "sofa": [
+    "Reclining Sofa",
+    "Camelback Sofa",
+    "Daybed Sofa",
+    "Loveseat Sofa",
+    "Convertible Sofa"
+  ],
+  "train": [
+    "Electric Train",
+    "Subway Train",
+    "High-Speed Train",
+    "Monorail",
+    "Underground train"
+  ],
+  "monitor": [
+    "Ultra-Wide Monitor",
+    "4K Monitor",
+    "television monitor",
+    "Touchscreen monitor",
+    "LED monitor"
+  ]
+}

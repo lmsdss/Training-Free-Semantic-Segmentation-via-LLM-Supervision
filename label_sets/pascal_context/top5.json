@@ -1,0 +1,418 @@
+{
+  "background": [
+    "background"
+  ],
+  "aeroplane": [
+    "Ultralight Airplane",
+    "Ultralight aircraft",
+    "Bomber Airplane",
+    "Private Jet Airplane",
+    "Fighter Jet Airplane"
+  ],
+  "bag": [
+    "Hobo bag",
+    "Fanny pack",
+    "Crossbody bag",
+    "Clutch",
+    "Shoulder bag"
+  ],
+  "bed": [
+    "Sofa bed",
+    "Futon bed",
+    "Traditional bed",
+    "Adjustable bed",
+    "Trundle bed"
+  ],
+  "bedclothes": [
+    "Tencel bedclothes",
+    "Microfiber bedclothes",
+    "Jersey bedclothes",
+    "Flannel bedclothes",
+    "Percale bedclothes"
+  ],
+  "bench": [
+    "Backless bench",
+    "Rustic bench",
+    "Modern bench",
+    "Wooden bench",
+    "Metal bench"
+  ],
+  "bicycle": [
+    "Touring Bike",
+    "Hybrid Bike",
+    "Fat Bike",
+    "Cruiser Bike",
+    "Electric Bike (E-bike)"
+  ],
+  "bird": [
+    "Pigeon",
+    "Penguin",
+    "Eagle",
+    "Pelican",
+    "Swan"
+  ],
+  "boat": [
+    "Inflatable boat",
+    "Yacht",
+    "Cruise Ship",
+    "Submarine",
+    "Pontoon Boat"
+  ],
+  "book": [
+    "Horror book",
+    "Mystery book",
+    "Adventure book",
+    "Fantasy book",
+    "Biography book"
+  ],
+  "bottle": [
+    "Energy drink bottle",
+    "Medicine bottle",
+    "Sports Drink bottle",
+    "Plastic bottle",
+    "Baby bottle"
+  ],
+  "building": [
+    "Historic building",
+    "Residential building",
+    "Commercial building",
+    "Office building",
+    "Hospital building"
+  ],
+  "bus": [
+    "Express bus",
+    "Coach bus",
+    "Party bus",
+    "Electric bus",
+    "Articulated bus"
+  ],
+  "cabinet": [
+    "File cabinet",
+    "Liquor cabinet",
+    "Display cabinet",
+    "Bar cabinet",
+    "Curio cabinet"
+  ],
+  "car": [
+    "Coupe car",
+    "Sedan car",
+    "Compact car",
+    "Muscle car",
+    "Vintage car"
+  ],
+  "cat": [
+    "Ragdoll cat",
+    "Maine Coon cat",
+    "Maine Coon cat",
+    "Manx cat",
+    "Persian cat"
+  ],
+  "ceiling": [
+    "Drop ceiling",
+    "Exposed beam ceiling",
+    "Tray ceiling",
+    "Wooden ceiling",
+    "Coffered ceiling"
+  ],
+  "chair": [
+    "Club chair",
+    "Lounge chair",
+    "Chaise lounge chair",
+    "Accent chair",
+    "Armchair"
+  ],
+  "cloth": [
+    "Cashmere cloth",
+    "Synthetic cloth",
+    "Knit cloth",
+    "Silk cloth",
+    "Linen cloth"
+  ],
+  "computer": [
+    "Server computer",
+    "Ultrabook",
+    "Gaming computer",
+    "Mini PC",
+    "Mainframe computer"
+  ],
+  "cow": [
+    "Limousin cow",
+    "Charolais cow",
+    "Shorthorn cow",
+    "Jersey cow",
+    "Charolais cow"
+  ],
+  "cup": [
+    "Metallic cup",
+    "Enamel cup",
+    "Insulated cup",
+    "Ceramic cup",
+    "Stainless steel cup"
+  ],
+  "curtain": [
+    "Grommet curtain",
+    "Thermal curtain",
+    "Pleated curtain",
+    "Tab top curtain",
+    "Embroidered curtain"
+  ],
+  "dog": [
+    "large dog",
+    "Labrador Retriever",
+    "Siberian Husky",
+    "Golden Retriever",
+    "German Shepherd"
+  ],
+  "door": [
+    "Panel door",
+    "Automatic door",
+    "Sliding door",
+    "Garage door",
+    "Pocket door"
+  ],
+  "fence": [
+    "Decorative fence",
+    "Bamboo fence",
+    "Picket fence",
+    "Wrought iron fence",
+    "Privacy fence"
+  ],
+  "floor": [
+    "Rubber floor",
+    "Concrete floor",
+    "Cork floor",
+    "Linoleum floor",
+    "Stone floor"
+  ],
+  "flower": [
+    "Sunflower",
+    "Hibiscus",
+    "Daisy",
+    "Dahlia",
+    "Chrysanthemum"
+  ],
+  "food": [
+    "Vegan dishes",
+    "BBQ dishes",
+    "Salads",
+    "Desserts",
+    "Mexican cuisine"
+  ],
+  "grass": [
+    "Meadow grass",
+    "Lawn grass",
+    "Artificial grass",
+    "Pasture grass",
+    "Creeping grass"
+  ],
+  "ground": [
+    "Paved ground",
+    "Desert ground",
+    "Sandy ground",
+    "Muddy ground",
+    "Rocky ground"
+  ],
+  "horse": [
+    "Morgan horse",
+    "Clydesdale horse",
+    "Quarter horse",
+    "Mustang horse",
+    "Thoroughbred horse"
+  ],
+  "keyboard": [
+    "Programmable keyboard",
+    "Touch-sensitive keyboard",
+    "Split keyboard",
+    "Foldable keyboard",
+    "Compact keyboard"
+  ],
+  "light": [
+    "Direct light",
+    "LED light",
+    "Diffused light",
+    "Cool light",
+    "Artificial light"
+  ],
+  "motorbike": [
+    "Cafe Racer motorbike",
+    "Bobber motorbike",
+    "Trike motorbike",
+    "Naked Bike motorbike",
+    "Vintage motorbike"
+  ],
+  "mountain": [
+    "Rugged mountain",
+    "Andes mountain",
+    "Volcanic mountain",
+    "Forest-covered mountain",
+    "Rocky mountain"
+  ],
+  "mouse": [
+    "Laser mouse",
+    "Corded mouse",
+    "Ambidextrous mouse",
+    "Optical mouse",
+    "Trackball mouse"
+  ],
+  "person": [
+    "Actor",
+    "male person",
+    "female person",
+    "Police Officer",
+    "Athlete"
+  ],
+  "plate": [
+    "Soup plate",
+    "Dessert plate",
+    "Stoneware plate",
+    "Porcelain plate",
+    "Vintage plate"
+  ],
+  "platform": [
+    "Streaming platform",
+    "Enterprise platform",
+    "Financial platform",
+    "E-commerce platform",
+    "Educational platform"
+  ],
+  "pottedplant": [
+    "Decorative potted plant",
+    "Herb potted plant",
+    "Climbing potted plant",
+    "Outdoor potted plant",
+    "Flowering potted plant"
+  ],
+  "road": [
+    "Straight road",
+    "Curved road",
+    "Freeway",
+    "Country road",
+    "Mountain road"
+  ],
+  "rock": [
+    "Sedimentary rock",
+    "Limestone rock",
+    "Quartzite rock",
+    "Sandstone rock",
+    "Igneous rock"
+  ],
+  "sheep": [
+    "Suffolk sheep",
+    "Jacob sheep",
+    "Border Leicester sheep",
+    "Suffolk sheep",
+    "Merino sheep"
+  ],
+  "shelves": [
+    "Corner shelves",
+    "Adjustable shelves",
+    "Cube shelves",
+    "Glass shelves",
+    "Industrial shelves"
+  ],
+  "sidewalk": [
+    "Flagstone sidewalk",
+    "Asphalt sidewalk",
+    "Paved sidewalk",
+    "Tiled sidewalk",
+    "Brick sidewalk"
+  ],
+  "sign": [
+    "Traffic sign",
+    "Yield sign",
+    "Informational sign",
+    "Street sign",
+    "Speed Limit sign"
+  ],
+  "sky": [
+    "Cloudy sky",
+    "Blue sky with clouds",
+    "Stormy sky",
+    "Morning sky",
+    "Clear sky"
+  ],
+  "snow": [
+    "Heavy snow",
+    "Powdery snow",
+    "Winter snow",
+    "Sparkling snow",
+    "Icy snow"
+  ],
+  "sofa": [
+    "Reclining sofa",
+    "Convertible sofa",
+    "Loveseat Sofa",
+    "Sleeper sofa",
+    "Chaise Lounge sofa"
+  ],
+  "table": [
+    "Drafting table",
+    "Workbench table",
+    "Study table",
+    "Conference table",
+    "Outdoor table"
+  ],
+  "track": [
+    "Athletic track",
+    "Go-kart track",
+    "Racing circuit",
+    "Train track",
+    "Slot car track"
+  ],
+  "train": [
+    "Tram",
+    "Maglev train",
+    "Electric train",
+    "Monorail train",
+    "Commuter train"
+  ],
+  "tree": [
+    "Windbreak tree",
+    "Deciduous tree",
+    "Evergreen tree",
+    "Flowering tree",
+    "Maple tree"
+  ],
+  "truck": [
+    "Tanker truck",
+    "Ice cream truck",
+    "Garbage truck",
+    "Refrigerated truck",
+    "Box truck"
+  ],
+  "tvmonitor": [
+    "QLED TV monitor",
+    "4K TV monitor",
+    "Portable TV monitor",
+    "OLED TV monitor",
+    "Gaming TV monitor"
+  ],
+  "wall": [
+    "Stucco wall",
+    "Texture wall",
+    "Concrete wall",
+    "Partition wall",
+    "Cinder block wall"
+  ],
+  "water": [
+    "Sparkling water",
+    "Alkaline water",
+    "Freshwater",
+    "Saltwater",
+    "Spring water"
+  ],
+  "window": [
+    "Casement window",
+    "Sliding window",
+    "Fixed window",
+    "Awning window",
+    "Skylight window"
+  ],
+  "wood": [
+    "Walnut wood",
+    "Cherry wood",
+    "Mahogany wood",
+    "Teak wood",
+    "Pine wood"
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "background": [
+    "background"
+  ],
+  "person": [
+    "male person",
+    "Actor",
+    "female person",
+    "young adults",
+    "Teacher"
+  ],
+  "bicycle": [
+    "Cyclocross Bike",
+    "Fixed Gear Bike",
+    "Cruiser Bike",
+    "Electric Bike (E-bike)",
+    "Road Bike"
+  ],
+  "car": [
+    "SUV (Sport Utility Vehicle)",
+    "Police car",
+    "Off-road vehicle",
+    "Hatchback car",
+    "Compact car"
+  ],
+  "motorcycle": [
+    "Bobber motorcycle",
+    "Naked Bike motorcycle",
+    "Scooter motorcycle",
+    "Trike motorcycle",
+    "Touring motorcycle"
+  ],
+  "airplane": [
+    "Supersonic Airplane",
+    "Regional Jet Airplane",
+    "Ultralight Airplane",
+    "Crop Duster Airplane",
+    "Bomber Airplane"
+  ],
+  "bus": [
+    "Coach bus",
+    "Party bus",
+    "Sightseeing bus",
+    "Express bus",
+    "Vintage bus"
+  ],
+  "train": [
+    "Tram train",
+    "Tourist train",
+    "Electric train",
+    "Sleeper train",
+    "Trolley train"
+  ],
+  "truck": [
+    "Ice cream truck",
+    "Tilt truck",
+    "Tank truck",
+    "Pickup truck",
+    "Tractor-trailer truck"
+  ],
+  "boat": [
+    "Cruise Ship",
+    "Yacht",
+    "Lifeboat",
+    "Submarine",
+    "Tugboat"
+  ],
+  "traffic light": [
+    "Countdown traffic light",
+    "Green traffic light",
+    "Adaptive traffic light",
+    "Arrow traffic light",
+    "Wireless traffic light"
+  ],
+  "fire hydrant": [
+    "Reflective fire hydrant",
+    "High-pressure fire hydrant",
+    "Plastic fire hydrant",
+    "Clapper fire hydrant",
+    "Modern fire hydrant"
+  ],
+  "stop sign": [
+    "School zone stop sign",
+    "Emergency vehicle stop sign",
+    "Retroreflective stop sign",
+    "Miniature stop sign",
+    "Solar-powered stop sign"
+  ],
+  "parking meter": [
+    "Touchscreen parking meter",
+    "Wireless communication parking meter",
+    "Coin-operated parking meter",
+    "Bluetooth-enabled parking meter",
+    "Digital parking meter"
+  ],
+  "bench": [
+    "Backless bench",
+    "Convertible bench",
+    "Upholstered bench",
+    "Plastic bench",
+    "Wooden bench"
+  ],
+  "bird": [
+    "Robin",
+    "Swan",
+    "Pelican",
+    "Hawk",
+    "Penguin"
+  ],
+  "cat": [
+    "Norwegian Forest cat",
+    "Persian cat",
+    "Himalayan cat",
+    "Ragdoll cat",
+    "Siberian cat"
+  ],
+  "dog": [
+    "Border Collie",
+    "Siberian Husky",
+    "Australian Shepherd",
+    "Labrador Retriever",
+    "Great Dane"
+  ],
+  "horse": [
+    "Andalusian horse",
+    "Irish Draught horse",
+    "Paint horse",
+    "Palomino horse",
+    "Welsh Pony"
+  ],
+  "sheep": [
+    "Border Leicester sheep",
+    "Suffolk sheep",
+    "Soay sheep",
+    "Lincoln sheep",
+    "Navajo-Churro sheep"
+  ],
+  "cow": [
+    "Dexter cow",
+    "Shorthorn cow",
+    "Limousin cow",
+    "Hereford cow",
+    "Holstein cow"
+  ],
+  "elephant": [
+    "Tusker Elephant",
+    "Indian Elephant",
+    "Elephant Calf",
+    "Cape Elephant",
+    "African Elephant"
+  ],
+  "bear": [
+    "Himalayan Brown Bear",
+    "Pizzly Bear",
+    "Kodiak Bear",
+    "Sloth Bear",
+    "Panda Bear"
+  ],
+  "zebra": [
+    "Equus Zebra",
+    "Somali Wild Ass",
+    "Cape Zebra",
+    "Damara Zebra",
+    "Quagga"
+  ],
+  "giraffe": [
+    "Girgentana Goat",
+    "Nubian Giraffe",
+    "South African Giraffe",
+    "Reticulated Giraffe",
+    "Brown Giraffe"
+  ],
+  "backpack": [
+    "Anti-theft backpack",
+    "School backpack",
+    "Fashion backpack",
+    "Laptop backpack",
+    "Urban backpack"
+  ],
+  "umbrella": [
+    "UV-protection umbrella",
+    "Compact umbrella",
+    "Designer umbrella",
+    "Mini umbrella",
+    "Bubble umbrella"
+  ],
+  "handbag": [
+    "Hobo handbag",
+    "Envelope handbag",
+    "Tote handbag",
+    "Backpack handbag",
+    "Shoulder handbag"
+  ],
+  "tie": [
+    "Bow tie",
+    "Wedding tie",
+    "Skinny tie",
+    "Silk tie",
+    "Striped tie"
+  ],
+  "suitcase": [
+    "Garment bag",
+    "Spinner suitcase",
+    "Checked suitcase",
+    "Expandable suitcase",
+    "Wheeled suitcase"
+  ],
+  "frisbee": [
+    "Plastic frisbee",
+    "Light-up frisbee",
+    "Colorful frisbee",
+    "Trick frisbee",
+    "Frisbee golf disc"
+  ],
+  "skis": [
+    "Freestyle skis",
+    "Adaptive skis",
+    "Twin-tip skis",
+    "Race skis",
+    "Carving skis"
+  ],
+  "snowboard": [
+    "Pipe snowboard",
+    "Race snowboard",
+    "Twin-tip snowboard",
+    "Beginner snowboard",
+    "Carving snowboard"
+  ],
+  "sports ball": [
+    "Handball",
+    "Kickball",
+    "Medicine ball",
+    "Soccer ball",
+    "Paddleball"
+  ],
+  "kite": [
+    "Parafoil kite",
+    "Arch kite",
+    "Kite train",
+    "Frameless kite",
+    "Mini kite"
+  ],
+  "baseball bat": [
+    "Custom engraved bat",
+    "One-handed bat",
+    "Fungo bat",
+    "Aluminum baseball bat",
+    "Long bat"
+  ],
+  "baseball glove": [
+    "Youth baseball glove",
+    "Left-handed baseball glove",
+    "Fastpitch softball glove",
+    "First baseman's baseball glove",
+    "Slowpitch softball glove"
+  ],
+  "skateboard": [
+    "Mini skateboard",
+    "Electric skateboard",
+    "Double kick skateboard",
+    "Micro skateboard",
+    "Carving skateboard"
+  ],
+  "surfboard": [
+    "Mini Simmons surfboard",
+    "Funboard surfboard",
+    "Tow-in surfboard",
+    "Shortboard surfboard",
+    "Beginner surfboard"
+  ],
+  "tennis racket": [
+    "Custom grip tennis racket",
+    "Power tennis racket",
+    "Yonex tennis racket",
+    "Tweener tennis racket",
+    "Babolat tennis racket"
+  ],
+  "bottle": [
+    "Energy drink bottle",
+    "Vinegar bottle",
+    "Plastic bottle",
+    "Metal bottle",
+    "Oil bottle"
+  ],
+  "wine glass": [
+    "Tulip wine glass",
+    "Crystal wine glass",
+    "Stemless wine glass",
+    "Highball glass",
+    "Champagne flute"
+  ],
+  "cup": [
+    "Thermal cup",
+    "Sippy cup",
+    "Glass cup",
+    "Plastic cup",
+    "Ceramic cup"
+  ],
+  "fork": [
+    "Fondue fork",
+    "Barbecue fork",
+    "Cocktail fork",
+    "Carving fork",
+    "Pastry fork"
+  ],
+  "knife": [
+    "Chef's knife",
+    "Paring knife",
+    "Bread knife",
+    "Utility knife",
+    "Serrated knife"
+  ],
+  "spoon": [
+    "Stainless steel spoon",
+    "Slotted spoon",
+    "Caviar spoon",
+    "Espresso spoon",
+    "Cooking spoon"
+  ],
+  "bowl": [
+    "Cereal bowl",
+    "Punch bowl",
+    "Chip and dip bowl",
+    "Ice cream bowl",
+    "Mixing bowl"
+  ],
+  "banana": [
+    "Lady Finger banana",
+    "Fingerling banana",
+    "Ice Cream banana",
+    "Burro banana",
+    "Praying Hands banana"
+  ],
+  "apple": [
+    "Jonagold apple",
+    "Fuji apple",
+    "Ambrosia apple",
+    "Northern Spy apple",
+    "Braeburn apple"
+  ],
+  "sandwich": [
+    "Meatball sandwich",
+    "Italian sub sandwich",
+    "Ham sandwich",
+    "Grilled cheese sandwich",
+    "Caprese sandwich"
+  ],
+  "orange": [
+    "Kinnow orange",
+    "Sweet orange",
+    "Seville orange",
+    "Valencia orange",
+    "Sour orange"
+  ],
+  "broccoli": [
+    "Asparagus broccoli",
+    "Broccoli crowns",
+    "Broccoli microgreens",
+    "Broccoli rabe",
+    "Broccoli stems"
+  ],
+  "carrot": [
+    "Nutri-Red carrot",
+    "Orange carrot",
+    "Long carrot",
+    "Nantes carrot",
+    "Red carrot"
+  ],
+  "hot dog": [
+    "Bratwurst",
+    "Sonoran hot dog",
+    "Andouille sausage",
+    "Corn dog",
+    "Chicago-style hot dog"
+  ],
+  "pizza": [
+    "Pesto pizza",
+    "Veggie pizza",
+    "Greek pizza",
+    "Mushroom pizza",
+    "Sausage pizza"
+  ],
+  "donut": [
+    "Maple donut",
+    "Bear claw donut",
+    "Sprinkle donut",
+    "Caramel donut",
+    "Glazed donut"
+  ],
+  "cake": [
+    "Fruitcake",
+    "Strawberry cake",
+    "Devil's food cake",
+    "Marble cake",
+    "Black forest cake"
+  ],
+  "chair": [
+    "Lounge chair",
+    "Wingback chair",
+    "Recliner chair",
+    "Parsons chair",
+    "Club chair"
+  ],
+  "couch": [
+    "Reclining couch",
+    "Lawson couch",
+    "Sectional couch",
+    "Camelback couch",
+    "English roll arm couch"
+  ],
+  "potted plant": [
+    "Foliage potted plant",
+    "Flowering potted plant",
+    "Indoor potted plant",
+    "Succulent potted plant",
+    "Herb potted plant"
+  ],
+  "bed": [
+    "Adjustable bed",
+    "Platform bed",
+    "Round bed",
+    "Divan bed",
+    "King bed"
+  ],
+  "dining table": [
+    "Rectangular dining table",
+    "Extendable dining table",
+    "Square dining table",
+    "Traditional dining table",
+    "Glass top dining table"
+  ],
+  "toilet": [
+    "Bidet toilet",
+    "Pressure-assisted toilet",
+    "Tankless toilet",
+    "Macerator toilet",
+    "Waterless toilet"
+  ],
+  "tv": [
+    "8K TV",
+    "UHD TV",
+    "OLED TV",
+    "Streaming TV",
+    "QLED TV"
+  ],
+  "laptop": [
+    "Touchscreen laptop",
+    "Business laptop",
+    "Multimedia laptop",
+    "Budget laptop",
+    "High-performance laptop"
+  ],
+  "mouse": [
+    "Trackball mouse",
+    "Silent mouse",
+    "Ambidextrous mouse",
+    "Ergonomic mouse",
+    "Travel mouse"
+  ],
+  "remote": [
+    "TV remote",
+    "Universal remote",
+    "Smart remote",
+    "IR remote",
+    "RF remote"
+  ],
+  "keyboard": [
+    "One-handed keyboard",
+    "Numeric keypad",
+    "Tenkeyless keyboard",
+    "Ergonomic keyboard",
+    "Full-size keyboard"
+  ],
+  "cell phone": [
+    "5G phone",
+    "Selfie phone",
+    "Foldable phone",
+    "Mid-range phone",
+    "Feature phone"
+  ],
+  "microwave": [
+    "Grill microwave",
+    "Sensor microwave",
+    "Inverter microwave",
+    "Compact microwave",
+    "Smart microwave"
+  ],
+  "oven": [
+    "Combination oven",
+    "Speed oven",
+    "Smart oven",
+    "Smoker oven",
+    "Built-in oven"
+  ],
+  "toaster": [
+    "Bagel toaster",
+    "Variable browning toaster",
+    "Bread toaster",
+    "Artisan toaster",
+    "Metallic toaster"
+  ],
+  "sink": [
+    "Bar sink",
+    "Fireclay sink",
+    "Drop-in sink",
+    "Vessel sink",
+    "Bathroom sink"
+  ],
+  "refrigerator": [
+    "Mini fridge",
+    "Top-freezer refrigerator",
+    "Counter-depth refrigerator",
+    "Drawer refrigerator",
+    "Side-by-side refrigerator"
+  ],
+  "book": [
+    "Educational book",
+    "Fantasy book",
+    "Cookbook",
+    "Poetry book",
+    "Travel book"
+  ],
+  "clock": [
+    "Atomic clock",
+    "Novelty clock",
+    "Outdoor clock",
+    "Smart clock",
+    "Flip clock"
+  ],
+  "vase": [
+    "Glass vase",
+    "Porcelain vase",
+    "Crystal vase",
+    "Metal vase",
+    "Antique vase"
+  ],
+  "scissors": [
+    "Left-handed scissors",
+    "Craft scissors",
+    "Garden scissors",
+    "Embroidery scissors",
+    "Stainless steel scissors"
+  ],
+  "teddy bear": [
+    "Superhero teddy bear",
+    "Designer teddy bear",
+    "Handmade teddy bear",
+    "Plush teddy bear",
+    "Collectible teddy bear"
+  ],
+  "hair drier": [
+    "Tourmaline hair dryer",
+    "Ceramic hair dryer",
+    "Cool shot hair dryer",
+    "Blow dryer brush",
+    "Professional hair dryer"
+  ],
+  "toothbrush": [
+    "Battery-powered toothbrush",
+    "Soft bristle toothbrush",
+    "Children's toothbrush",
+    "Rechargeable toothbrush",
+    "Sensitive toothbrush"
+  ]
+}
